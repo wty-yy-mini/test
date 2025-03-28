@@ -1,0 +1,4 @@
+[submodule "test-submodule"]
+	path = test-submodule
+	url = https://github.com/wty-yy-mini/test-submodule.git
+	branch = master
